@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="CC0-1.0"
+[[mods]]
+modId="witaf"
+version="1.20.1"
+displayName="Why Isn't That a Feature?"
+authors="VoxelPartum"
+description='''This mod is designed to suppliment some of Minecraft's current features, I had originally thought of it when I saw some of the 1.20 ideas and thought "Hey... Why isn't that a feature?" which is where then name came from.'''
